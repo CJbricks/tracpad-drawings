@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+h1 {
+    text-align: center;
+    margin-left: 250px;
+    font-size: 50px;
+    font-family: 'Alfa Slab One', Helvetica, sans-serif;
+    
+}
+
+.oven {
+    display: inline-flex;
+    border: 2px solid black;
+    margin-left: 250px;
+    margin-top: 25px;
+    justify-content: flex-end;
+    border-radius: 5px;
+}
+
+.head, .trash, .boy {
+    display: inline-flex;
+    border: 2px solid black;
+    margin-left: 25px; 
+    margin-top: 25px;
+    justify-content: flex-end;
+    border-radius: 5px;
+    
+}
+
+.oven:hover, .head:hover, .trash:hover, .boy:hover {
+    box-shadow: -5px 6px 19px 0px black;
+    cursor: pointer;
+}
+
+h1:hover {
+    color: yellow;
+}
+
+.bleach {
+    display: inline-flex;
+    border: 2px solid black;
+    margin-left: 250px;
+    margin-top: 25px;
+    justify-content: flex-end;
+    border-radius: 5px;
+}
+
+
+
+.socket, .facepaint, .fingers {
+    display: inline-flex;
+    border: 2px solid black;
+    margin-left: 25px; 
+    margin-top: 25px;
+    justify-content: flex-end;
+    border-radius: 5px;
+    
+}
+
+.bleach:hover, .socket:hover, .facepaint:hover, .fingers:hover {
+    box-shadow: -5px 6px 19px 0px black;
+    cursor: pointer;
+}
+
+.dad {
+    display: inline-flex;
+    border: 2px solid black;
+    margin-left: 250px;
+    margin-top: 25px;
+    justify-content: flex-end;
+    border-radius: 5px;
+}
+
+.internet, .shed, .promise {
+    display: inline-flex;
+    border: 2px solid black;
+    margin-left: 25px; 
+    margin-top: 25px;
+    justify-content: flex-end;
+    border-radius: 5px;
+    
+}
+
+.dad:hover, .internet:hover, .shed:hover, .promise:hover {
+    box-shadow: -5px 6px 19px 0px black;
+    cursor: pointer;
+}
+
+.stand {
+    display: inline-flex;
+    border: 2px solid black;
+    margin-left: 250px;
+    margin-top: 25px;
+    justify-content: flex-end;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+.pry, .wearecops, .cop {
+    display: inline-flex;
+    border: 2px solid black;
+    margin-left: 25px; 
+    margin-top: 25px;
+    justify-content: flex-end;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    
+    
+}
+
+.stand:hover, .pry:hover, .wearecops:hover, .cop:hover {
+    box-shadow: -5px 6px 19px 0px black;
+    cursor: pointer;
+}
+
+.blurb {
+    text-align: left;
+    width: 300px;
+    height: 210px;
+    right: -1010px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 5px;
+    overflow: hidden;
+
+}
+

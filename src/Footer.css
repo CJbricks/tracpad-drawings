@@ -1,0 +1,23 @@
+
+.foot-body {
+    width: 1000;
+    height: 150px;
+    
+    margin-top: 25px;
+    margin-right: 25px;
+    position: absolute;
+    border-radius: 15px;
+    text-align: left;
+    left: 45px;
+    
+}
+
+.ats {
+    margin-right: 100px;
+    margin-top: 25px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    
+}
